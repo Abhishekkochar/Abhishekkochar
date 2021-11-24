@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekkochar
 - 👀 I’m interested in looking to learn more. 
-- 🌱 I’m currently learning solidity and different blockchains.
+- 🌱 I’m currently working on solidity and different blockchains.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Email on: Abhishekkochar2@gmail.com
 
