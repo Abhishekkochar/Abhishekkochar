@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekkochar
-- 👀 I’m interested in looking to learn more. 
+- 👀 actively looking for a blockchain dev role.
 - 🌱 I’m currently working on solidity and different blockchains.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Email on: Abhishekkochar2@gmail.com
