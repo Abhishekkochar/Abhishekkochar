@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekkochar
 - 👀 actively looking for a blockchain dev role.
-- 🌱 I’m currently working on solidity and different blockchains.
+- 🌱 I’m currently working with ARABlE Protocol.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Email on: Abhishekkochar2@gmail.com
 
