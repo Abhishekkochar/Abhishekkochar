@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishekkochar
 - 👀 actively looking for a blockchain dev role.
-- 🌱 I’m currently working with ARABLE Protocol as a blockchain developer.
+- 🌱 Currently working as a blockchain developer.
 - 💞️ Looking to collaborate on blockchain projects.
 - 📫 Email: Abhishekkochar2@gmail.com
 
