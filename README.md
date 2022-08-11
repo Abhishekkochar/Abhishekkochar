@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Abhishekkochar
-- 🌱 Currently working as a blockchain developer.
-- 💞️ Looking to collaborate on new blockchain projects.
-- 📫 Email: Abhishekkochar2@gmail.com
+Buliding Smart contracts & Dapps
 
 <!---
 Abhishekkochar/Abhishekkochar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
